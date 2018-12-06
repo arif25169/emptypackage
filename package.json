@@ -13,5 +13,7 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/arif25169/emptypackage/issues"
-  }
+  },
+  "homepage": "https://github.com/arif25169/emptypackage#readme",
+  "main": "index.js"
 }
