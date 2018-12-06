@@ -1,0 +1,17 @@
+{
+  "name": "emptypackage",
+  "version": "0.0.1",
+  "description": "Empty Package for NodeJs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arif25169/emptypackage.git"
+  },
+  "author": "Arif",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arif25169/emptypackage/issues"
+  }
+}
